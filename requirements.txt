@@ -1,2 +1,2 @@
 flask
-idealist
+git+https://github.com/yoheinakajima/idealist.git
